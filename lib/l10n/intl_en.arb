@@ -1,0 +1,17 @@
+{
+  "language": "English",
+  "@language" :{
+    "description": "The current Language"
+  },
+  "no_fav": "No favorites yet.",
+  "fav_amount": "You have {count} favorites:",
+  "@fav_amount": {
+    "description" : "Amount of favorite user words",
+    "placeholders": {
+      "count": {
+        "type" : "int"
+      }
+    }
+  },
+  "next": "Next"
+}
